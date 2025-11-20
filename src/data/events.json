@@ -1,0 +1,58 @@
+[
+  {
+    "fecha": "18 Ago - 25 Sep 2025",
+    "titulo": "Entrega del Formulario de Inscripción (FIP)",
+    "responsable": "Estudiantes",
+    "descripcion": "Los estudiantes deben entregar el Formulario de Inscripción del tema de Proyecto de Título I durante este período.",
+    "estado": ["Fecha pasada"],
+    "color": "border-green-500 bg-green-50"
+  },
+  {
+    "fecha": "Posterior a entrega FIP",
+    "titulo": "Formación de Comisiones Evaluadoras",
+    "responsable": "Director de Carrera",
+    "descripcion": "Cada Escuela forma las Comisiones Evaluadoras encargadas de revisar el FIP.",
+    "estado": [],
+    "color": "border-blue-500 bg-blue-50"
+  },
+  {
+    "fecha": "Proceso de revisión",
+    "titulo": "Revisión de FIPs por Comisiones",
+    "responsable": "Comisiones Evaluadoras",
+    "descripcion": "Las Comisiones Evaluadoras emiten un informe para cada FIP con las observaciones pertinentes.",
+    "estado": ["Aprobado", "Aprobado con Observaciones", "Reprobado"],
+    "color": "border-yellow-400 bg-yellow-50"
+  },
+  {
+    "fecha": "08 Oct 2025",
+    "titulo": "Publicación de Resultados",
+    "responsable": "Coordinación PT y Dirección de Carrera",
+    "descripcion": "Se publica la nómina con el estatus de los FIPs evaluados por las comisiones.",
+    "estado": ["Fecha pasada"],
+    "color": "border-green-500 bg-green-50"
+  },
+  {
+    "fecha": "14 Nov 2025",
+    "titulo": "Entrega Primer Informe de Avance (33%)",
+    "responsable": "Estudiantes",
+    "descripcion": "Los estudiantes entregan el Primer Informe de Avance que corresponde al 33% de su memoria.",
+    "estado": ["Faltan 8 días y 0 horas"],
+    "color": "border-blue-400 bg-blue-50"
+  },
+  {
+    "fecha": "Posterior a entrega 33%",
+    "titulo": "Evaluación del Primer Avance",
+    "responsable": "Comisiones Evaluadoras",
+    "descripcion": "Las Comisiones Evaluadoras entregan un informe con correcciones y la NOTA DEL PRIMER AVANCE DEL 33%.",
+    "estado": [],
+    "color": "border-gray-400 bg-gray-50"
+  },
+  {
+    "fecha": "09 - 12 Dic 2025",
+    "titulo": "Presentaciones Finales del 33%",
+    "responsable": "Docente PT1 y Coordinación PT",
+    "descripcion": "La Dirección de Escuela y Coordinación de Proyecto de Título realizan las presentaciones finales del 33%.",
+    "estado": ["Faltan 33 días y 0 horas"],
+    "color": "border-blue-400 bg-blue-50"
+  }
+]

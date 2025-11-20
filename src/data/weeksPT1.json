@@ -1,0 +1,22 @@
+[
+  {
+    "semana": "Semana 18-25 Agosto",
+    "tareas": ["Inicio período entrega FIP"]
+  },
+  {
+    "semana": "Semana 22-28 Septiembre",
+    "tareas": ["Cierre entrega FIP (25 Sep)"]
+  },
+  {
+    "semana": "Semana 6-12 Octubre",
+    "tareas": ["Publicación resultados (08 Oct)"]
+  },
+  {
+    "semana": "Semana 10-16 Noviembre",
+    "tareas": ["Entrega avance 33% (14 Nov)"]
+  },
+  {
+    "semana": "Semana 8-14 Diciembre",
+    "tareas": ["Presentaciones finales (09–12 Dic)"]
+  }
+]

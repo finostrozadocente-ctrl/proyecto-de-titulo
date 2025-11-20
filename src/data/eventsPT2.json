@@ -1,0 +1,82 @@
+[
+  {
+    "fecha": "01 Sep 2025",
+    "titulo": "Envío de Listado de Estudiantes",
+    "responsable": "Coordinación PT",
+    "descripcion": "Las escuelas envían listado de estudiantes en proceso de titulación. La Coordinación PT envía email del listado.",
+    "estado": ["Fecha pasada"],
+    "color": "border-green-500 bg-green-50"
+  },
+  {
+    "fecha": "02 - 12 Sep 2025",
+    "titulo": "Revisión de Situación Curricular",
+    "responsable": "Coordinación de Títulos y Grados",
+    "descripcion": "La Coordinación de Títulos y Grados revisa situación curricular de cada estudiante en proceso de titulación y solicita regularizaciones a Escuelas. Verifica estatus de los estudiantes.",
+    "estado": ["Fecha pasada"],
+    "color": "border-green-500 bg-green-50"
+  },
+  {
+    "fecha": "10 Oct 2025",
+    "titulo": "Entrega Segundo Informe de Avance (66%)",
+    "responsable": "Estudiantes",
+    "descripcion": "Los estudiantes entregan el Segundo Informe de Avance correspondiente al 66% vía email a la Coordinación PT.",
+    "estado": ["Fecha pasada"],
+    "color": "border-green-500 bg-green-50"
+  },
+  {
+    "fecha": "20 Oct 2025",
+    "titulo": "Evaluación del 66% (Sin Nota)",
+    "responsable": "Comisión Examinadora",
+    "descripcion": "La Comisión Examinadora entrega informe con correcciones, sin nota de segundo avance. La Coordinación PT recibe las observaciones vía email de los docentes.",
+    "estado": ["Fecha pasada"],
+    "color": "border-green-500 bg-green-50"
+  },
+  {
+    "fecha": "Desde 20 Oct 2025",
+    "titulo": "Entrega de Correcciones a Estudiantes",
+    "responsable": "Coordinación PT",
+    "descripcion": "Los estudiantes reciben las correcciones entregadas por la Comisión. La Coordinación PT envía email del resultado a cada estudiante.",
+    "estado": ["Fecha pasada"],
+    "color": "border-green-500 bg-green-50"
+  },
+  {
+    "fecha": "09 Dic 2025",
+    "titulo": "Entrega Informe Escrito Final (100%)",
+    "responsable": "Estudiantes",
+    "descripcion": "Los estudiantes entregan Informe Escrito Final (100%) del Proyecto de Título vía email a la Coordinación PT.",
+    "estado": ["Faltan 32 días y 9 horas"],
+    "color": "border-blue-400 bg-blue-50"
+  },
+  {
+    "fecha": "19 Dic 2025",
+    "titulo": "Evaluación Final con Nota Definitiva",
+    "responsable": "Comisión Examinadora",
+    "descripcion": "La Comisión Examinadora entrega informe CON NOTA DEFINITIVA DEL INFORME FINAL (100%). La Coordinación PT recibe las observaciones vía email de los docentes.",
+    "estado": ["Faltan 42 días y 9 horas"],
+    "color": "border-blue-400 bg-blue-50"
+  },
+  {
+    "fecha": "19 Dic 2025",
+    "titulo": "Entrega de Evaluaciones",
+    "responsable": "Coordinación PT",
+    "descripcion": "La Coordinación PT entrega evaluación a la Coordinación de Títulos y Grados. Envía listado de las notas del Informe Escrito (100%).",
+    "estado": ["Faltan 42 días y 9 horas"],
+    "color": "border-blue-400 bg-blue-50"
+  },
+  {
+    "fecha": "22 Dic 2025",
+    "titulo": "Generación de Expedientes",
+    "responsable": "Coordinación de Títulos y Grados",
+    "descripcion": "La Coordinación de Títulos y Grados genera expediente de cada estudiante en proceso de titulación.",
+    "estado": ["Faltan 45 días y 9 horas"],
+    "color": "border-blue-400 bg-blue-50"
+  },
+  {
+    "fecha": "22 - 24 Dic 2025",
+    "titulo": "Examen de Título (Defensa)",
+    "responsable": "Estudiantes",
+    "descripcion": "Los alumnos rinden Examen de Título en las fechas determinadas por las Escuelas.",
+    "estado": ["Faltan 47 días y 9 horas"],
+    "color": "border-blue-400 bg-blue-50"
+  }
+]

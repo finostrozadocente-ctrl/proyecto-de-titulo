@@ -1,0 +1,22 @@
+[
+  {
+    "semana": "Semana 1-7 Septiembre",
+    "tareas": ["01 Sep: Envío listado estudiantes"]
+  },
+  {
+    "semana": "Semana 6-12 Octubre",
+    "tareas": ["10 Oct: Entrega avance 66%"]
+  },
+  {
+    "semana": "Semana 20-26 Octubre",
+    "tareas": ["20 Oct: Evaluación 66%"]
+  },
+  {
+    "semana": "Semana 8-14 Diciembre",
+    "tareas": ["09 Dic: Informe final 100%"]
+  },
+  {
+    "semana": "Semana 22-28 Diciembre",
+    "tareas": ["22–24 Dic: Examen de título"]
+  }
+]
